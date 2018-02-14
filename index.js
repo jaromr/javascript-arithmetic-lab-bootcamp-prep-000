@@ -1,4 +1,6 @@
-function 
+function addVars(a,b){
+  return a+b
+}
 
 
 it('add(a, b) adds two numbers and returns the result', function() {
